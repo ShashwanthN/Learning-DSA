@@ -7,6 +7,6 @@ public class SubSet {
     }
 
     static List<List<Integer>> subset(int[] arr) {
-        List<List<Integer>>
+        return null;
     }
 }
