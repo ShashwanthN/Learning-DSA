@@ -1,6 +1,6 @@
 public class ReverseInt {
     public static void main(String[] args) {
-        System.out.println(reverseInt(1));
+        System.out.println(reverseInt(1234));
     }
 
     static int reverseInt(int n) {

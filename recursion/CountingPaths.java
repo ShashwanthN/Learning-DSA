@@ -31,7 +31,7 @@ public class CountingPaths {
             hashMap2.put(key, BigInteger.ONE);
             return BigInteger.ONE;
         }
-        BigInteger count1 = BigInteger.ZERO;;
+        BigInteger count1 = BigInteger.ZERO;
         if(n>1 && m>1){
             count1 = countingPathWithDiagonals(n-1,m-1);
             }
