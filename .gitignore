@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Swap/temporary files
+*.swp
+*.swo
+*~
+
+# Build output
+out/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node (if using frontend later)
+node_modules/
+
+# Java
+*.class
+

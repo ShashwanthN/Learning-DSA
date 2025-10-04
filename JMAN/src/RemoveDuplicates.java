@@ -14,4 +14,4 @@ public class RemoveDuplicates {
     }
 }
 
-// use linked hashed set to preserve the order, distinct uses hashset internally, both the above code yields o(n) mem and time;
+// use link ed hashed set to preserve the order, distinct uses hashset internally, both the above code yields o(n) mem and time;
