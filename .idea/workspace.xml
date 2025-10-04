@@ -4,66 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfb09c3f-d52c-43bf-9cfb-37ac1010adac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JMAN/src/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMAN/src/DupsAndSorts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JMAN/src/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/JMAN/src/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/BinarySearchRec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/CheckNumberOfZeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/CountingPaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/DiceRoll.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/DigitSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/IsArrSorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/LinearSearchMultipleOccurrences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/Permutations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/PrintToN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/ReverseInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/ReverseInt2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/SkipAChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/SortARotatedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/StepsToZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/SubSeq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/SubSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/TrianglePattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/UserMainCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/out/production/Practice/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/out/production/Practice/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/out/production/Practice/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/out/production/Practice/Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA practice/phoneNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMAN/ChangeCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMAN/CountFrequencyForEachWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMAN/GeneratePassword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMAN/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMAN/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMAN/PasswordValidation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMAN/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTI MindTree/FactorialRec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTI MindTree/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTI MindTree/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LTI MindTree/PowerRec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VirtusaOops/InnerClasses$Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VirtusaOops/InnerClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VirtusaOops/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VirtusaOops/StringDecoding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/permutations/ReturnOnePermutation.class" beforeDir="false" />
-    </list>
+    <list default="true" id="dfb09c3f-d52c-43bf-9cfb-37ac1010adac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,9 +180,9 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/JMAN/src/DupsAndSorts.java</url>
-          <line>1</line>
-          <properties class="DupsAndSorts" method="main">
+          <url>file://$PROJECT_DIR$/JMAN/src/MergeDedupSort.java</url>
+          <line>2</line>
+          <properties class="MergeDedupSort" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
