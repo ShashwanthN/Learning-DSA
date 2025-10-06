@@ -21,7 +21,7 @@ public class MergeDedupSort {
         return out;
     }
 
-    // remove duplicates case-insensitively without using sets
+    // remove duplicates case-insensitively without using sets.
     static String[] removeDuplicatesCaseInsensitive(String[] input) {
         // worst-case unique count is input.length
         String[] temp = new String[input.length];
